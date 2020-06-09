@@ -1,0 +1,16 @@
+body {
+  background-color: royalblue;
+  padding-top: 100px;
+}
+
+.changeAvatar {
+  display: inline-block;
+  background-color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 50px;
+}
+
+.changeAvatar:hover {
+  text-decoration: none;
+}
